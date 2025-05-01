@@ -1,6 +1,6 @@
 ## 👋 Github Status
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sam3319&theme=algolia--)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sam3319&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
 --
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sam3319&show_icons=true&theme=github_dark)
 <!--
